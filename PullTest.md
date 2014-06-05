@@ -7,3 +7,7 @@ As it will be ahead by a commit.
 **PULL REQUEST BEFORE SYNCING WITH UPSTREAM**
   
   *Just to check and distinguish network graphs*
+
+**PULL REQUEST AFTER SYINCING WITH UPSTREAM**
+
+  *For better understand of network graphs*
