@@ -8,6 +8,8 @@ As it will be ahead by a commit.
   
   *Just to check and distinguish network graphs*
 
-**PULL REQUEST AFTER SYINCING WITH UPSTREAM**
+~~**PULL REQUEST AFTER SYINCING WITH UPSTREAM**~~
 
   *For better understand of network graphs*
+
+`Unable to open another pull request, if one is already sent, furthermore, every commit done in the fork (after making pull request) is already added in the pull request queue untill it is not accepted`
